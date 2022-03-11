@@ -1,3 +1,8 @@
 h1{
     color: green;
 }
+p{
+    background-color: lightblue;
+    border: black dotted 3px;
+    border-radius: 15px;
+}
